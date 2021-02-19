@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
 
 
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QHBoxLayout, QVBoxLayout, QLabel,     QSlider, QStyle, QSizePolicy, QFileDialog
@@ -152,7 +149,5 @@ def media_player():
         
  
  
-#app = QApplication(sys.argv)
-#window = Window()
-#sys.exit(app.exec_())
+
 
