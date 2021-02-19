@@ -6,11 +6,7 @@ from tkinter.filedialog import askopenfilename, asksaveasfile
 import threading
 import time
 
-'''from ctypes import * 
-sum = CDLL('/home/manjunath/libsum.so')  #UTF-8 to UNICODE 
-sum.our_function.argtypes = [c_int, c_char_p] 
-sum.our_function.restype = c_char_p 
-'''
+
 
 
 def about():
